@@ -7,16 +7,8 @@
     background-position:center;
     background-repeat:no-repeat;
 }
-slider{
-    overflow: hidden;
-}
-slider figure{
-    position: relative;
-    width: 500%;
-    margin: 0;
-    left: 0;
-    animation: 20s slider infinite;
-}
+
+
  * {box-sizing: border-box;}
       
       body
