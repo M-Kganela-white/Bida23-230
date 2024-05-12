@@ -13,6 +13,10 @@ body {
 h1 {
   text-align: center;
 }
+P{
+    float:Left;
+    margin-left: 50%;
+}
  * {box-sizing: border-box;}
       
       body
