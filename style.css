@@ -1,9 +1,4 @@
-.header{
-  background-color:#04006C; 
-}
-.header img {
-  float: left;
-  width: 100px;
-  height: 100px;
- 
+.header {
+  padding: 60px;
+  background: #04006C;
 }
