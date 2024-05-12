@@ -31,8 +31,9 @@ div.gallery img {
 }
 
 div.desc {
-  padding: 15px;
+  padding: 18px;
   text-align: center;
+  color: 	#FFC200;
 }
  * {box-sizing: border-box;}
       
