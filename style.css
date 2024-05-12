@@ -1,3 +1,9 @@
-header {
-  object-fit: contain;
+.header{
+  background-color:#04006C; 
+}
+.header img {
+  float: left;
+  width: 100px;
+  height: 100px;
+ 
 }
