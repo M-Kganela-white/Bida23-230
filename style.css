@@ -18,6 +18,7 @@ div.gallery {
   margin: 5px;
   border: 1px solid #ccc;
   float: left;
+  margin-left: 50%;
   width: 180px;
 }
 
