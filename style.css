@@ -10,7 +10,9 @@
 body {
   background-color: #04006C;
 }
-
+h1 {
+  text-align: center;
+}
  * {box-sizing: border-box;}
       
       body
