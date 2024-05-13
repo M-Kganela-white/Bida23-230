@@ -19,23 +19,41 @@
   <div>
     <h1>TOYS</h1>
   </div>
-<div class="gallery">
-  <a target="_blank" href="https://play.google.com/store/movies/details?id=IjhkhhgAg3Y.P&pli=1">
-    <img src="https://deadline.com/wp-content/uploads/2023/04/barbie-BARBIE_VERT_TSR_W_TALENT_2764x4096_DOM_rgb.jpg?w=800" alt="Dune" width="100%">
-  </a>
-  <div class="desc">JOKER</div>
-  <div class="gallery">
-  <a target="_blank" href="https://play.google.com/store/movies/details?id=IjhkhhgAg3Y.P&pli=1">
-    <img src="https://deadline.com/wp-content/uploads/2023/04/barbie-BARBIE_VERT_TSR_W_TALENT_2764x4096_DOM_rgb.jpg?w=800" alt="Dune" width="100%">
-  </a>
-  <div class="desc">JOKER</div>
+<style>
+* {
+  box-sizing: border-box;
+}
+
+.column {
+  float: left;
+  width: 33.33%;
+  padding: 5px;
+}
+
+/* Clearfix (clear floats) */
+.row::after {
+  content: "";
+  clear: both;
+  display: table;
+}
+</style>
+</head>
+<body>
+
+<h2>Images Side by Side</h2>
+<p>How to create side-by-side images with the CSS float property:</p>
+
+<div class="row">
+  <div class="column">
+    <img src="img_snow.jpg" alt="Snow" style="width:100%">
+  </div>
+  <div class="column">
+    <img src="img_forest.jpg" alt="Forest" style="width:100%">
+  </div>
+  <div class="column">
+    <img src="img_mountains.jpg" alt="Mountains" style="width:100%">
+  </div>
 </div>
-  <div class="gallery">
-  <a target="_blank" href="https://play.google.com/store/movies/details?id=IjhkhhgAg3Y.P&pli=1">
-    <img src="https://deadline.com/wp-content/uploads/2023/04/barbie-BARBIE_VERT_TSR_W_TALENT_2764x4096_DOM_rgb.jpg?w=800" alt="Dune" width="100%">
-  </a>
-  <div class="desc">JOKER</div>
-</div>
-</div>
+
 </p>
 </html>
