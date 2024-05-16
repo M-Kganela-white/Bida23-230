@@ -51,6 +51,12 @@ div.desc {
   font-color: 	#white;
    background-color:black;
 }
+div.desctwo {
+  padding: 18px;
+  text-align: left;
+  font-color: 	#white;
+   background-color:black;
+}
  * {box-sizing: border-box;}
       
       body
