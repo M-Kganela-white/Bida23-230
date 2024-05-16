@@ -31,21 +31,25 @@ div.gallery {
   border: 1px solid #ccc;
   float: left;
   width: 180px;
+   background-color:white;
 }
 
 div.gallery:hover { 
   border: 1px solid #777;
+   background-color:white;
 }
 
 div.gallery img {
   width: 100%;
   height: auto;
+   background-color:white;
 }
 
 div.desc {
   padding: 18px;
   text-align: left;
   color: 	#FFC200;
+   background-color:white;
 }
  * {box-sizing: border-box;}
       
