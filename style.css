@@ -48,7 +48,7 @@ div.gallery img {
 div.desc {
   padding: 18px;
   text-align: left;
-  color: 	#white;
+  font-color: 	#white;
    background-color:black;
 }
  * {box-sizing: border-box;}
