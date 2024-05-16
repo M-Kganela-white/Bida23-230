@@ -31,30 +31,23 @@ div.gallery {
   border: 1px solid #ccc;
   float: left;
   width: 180px;
-   background-color:black;
+   
 }
 
 div.gallery:hover { 
   border: 1px solid #777;
-   background-color:black;
+   
 }
 
 div.gallery img {
   width: 100%;
   height: auto;
-   background-color:black;
 }
 
 div.desc {
   padding: 18px;
   text-align: left;
-  font-color: 	#white;
-   background-color:black;
-}
-div.desctwo {
-  padding: 18px;
-  text-align: left;
-  font-color: 	#white;
+  color: 	white;
    background-color:black;
 }
  * {box-sizing: border-box;}
