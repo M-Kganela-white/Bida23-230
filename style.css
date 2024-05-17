@@ -1,4 +1,4 @@
-@media screen and (max-width: 481px){
+
 
   .header {
     display: block;
@@ -66,4 +66,3 @@ div.desc {
       .topnav a.active
         {background-color: #FFC200;
         color: white;}
-}
