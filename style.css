@@ -15,6 +15,10 @@ body {
 h1 {
   text-align: center;
 }
+div.gallery{
+  display: flex;
+  justify-content: space-between;  
+}
 
 div.gallery {
   margin: 60px;
